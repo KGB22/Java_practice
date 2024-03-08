@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=👩🏻‍💻자바 %20기초👩🏻‍💻&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=자바👩🏻‍💻기초&animation=fadeIn&fontSize=80&fontAlignY=35)
