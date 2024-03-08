@@ -1,0 +1,11 @@
+# ignore all .class files
+*.class
+
+# ignore .DS_store
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# ignore .vscode
+.vscode/
